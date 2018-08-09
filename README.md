@@ -12,11 +12,11 @@ Compile the file (I used GCC) and you're ready !
 ```bash
 file-watcher /home/myname/somewhere/somefile /home/myname/somewhere/someExecutableFile /path/to/executer commandToExecute
 ```
-*REAL EXAMPLE :*  
+*REAL EXAMPLE WITH PYTHON SCRIPT :*  
 ```bash
 file-watcher /home/server/myDataBase /home/server/myscript.py /usr/bin/python3 python3
 ```
-*REAL EXAMPLE II :*
+*REAL EXAMPLE WITH BASH SCRIPT :*
 ```bash
 file-watcher /home/server/myDataBase /home/server/myscript.sh /bin/sh sh
 ```
