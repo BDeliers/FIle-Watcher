@@ -26,7 +26,7 @@ file-watcher /home/server/myDataBase /home/server/myscript.sh /bin/sh sh
 ---
 
 How it looks :
-![Call Example](./Exmaple.png)
+![Call Example](./Example.png)
 
 Computer's resources usage :
-![Resource Example](./Exmaple2.png)
+![Resource Example](./Example2.png)
